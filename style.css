@@ -1,0 +1,62 @@
+body{
+    color: #009933;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+p{
+    letter-spacing: 5px;
+}
+
+.kursiv{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.sansserif{
+font-family: Comic sans-serif;
+font-size: 25pt;
+text-indent: 50px;
+}
+
+.rich{
+    font-family: Arial;
+    font-size: 15pt;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 25pt;
+}
+
+.perenos{
+    white-space: nowrap;
+}
+
+.red{
+    color: #FF0000;
+    text-transform: uppercase;
+}
+
+.rds{
+font-family: Courier;
+font-size: 12pt;
+text-transform: uppercase;
+letter-spacing: 200%;
+text-decoration: underline;
+text-indent: 56pt;
+line-height: 2em;
+}
+
+.ink{
+color: #0088ff;
+font-family: Courier;
+font-size: 40px;
+text-decoration: overline;
+}
+
+
+.tok{
+    color: rgb(251, 193, 3);
+    text-transform: uppercase;
+    font-weight: normal;
+    word-spacing: 60px;
+}
